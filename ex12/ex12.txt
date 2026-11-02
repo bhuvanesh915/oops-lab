@@ -1,0 +1,6 @@
+----- Shopping Cart -----
+Laptop Bag - Rs.1200.0
+Mouse - Rs.500.0
+Keyboard - Rs.800.0
+-------------------------
+Total Amount: Rs.2500.0
